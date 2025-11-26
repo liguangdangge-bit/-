@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StickerSplit",
+  "description": "Upload a sticker sheet or emoji grid, and let our smart algorithm automatically detect and crop them into individual transparent images.",
+  "requestFramePermissions": []
+}
